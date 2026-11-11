@@ -1,0 +1,61 @@
+{
+    "last_report":  "FIX.md",
+    "selected_paths":  [
+                           "src\\App.tsx",
+                           "src\\main.tsx",
+                           "src\\components\\MapView.tsx",
+                           "src\\components\\SearchBar.tsx",
+                           "src\\components\\WeatherCard.tsx",
+                           "src\\components\\ForecastList.tsx",
+                           "src\\hooks\\useWeather.ts",
+                           "src\\services\\weatherApi.ts"
+                       ],
+    "issue":  "uygulamayı ful türkçe yap , ve sadece türkiye ile sınırlandır . girilen cihazdan ip\u0027si ile direk bulunduğu yerşn bilgilerini göster , harita üzerinden de yer seçebileyim  . seçili gün veya sonraki günleri seçtiğimde saatlik verileride görebileyim",
+    "version":  "2.6",
+    "selection_mode":  "smart",
+    "truncated":  false,
+    "files":  [
+                  {
+                      "path":  "src\\App.tsx",
+                      "sha256":  "1AF76A7727C94535E36488008384D5321B51BC9C911E29355DD30B7DFEA8124D",
+                      "bytes":  399
+                  },
+                  {
+                      "path":  "src\\main.tsx",
+                      "sha256":  "885E6605414D5E91D9ACB4C08625AAB815CDC4C5EF74F401D4E8EAA96DFA46D4",
+                      "bytes":  211
+                  },
+                  {
+                      "path":  "src\\components\\MapView.tsx",
+                      "sha256":  "FC1F91C004BCD66255B574F93C6578B33E6B5C3A17E408A0B653366CC2971F07",
+                      "bytes":  1445
+                  },
+                  {
+                      "path":  "src\\components\\SearchBar.tsx",
+                      "sha256":  "90A0A81C08B48F629520ECA66361795929E19C5CB5D38CAE75DD1C9FB30A3B2B",
+                      "bytes":  3721
+                  },
+                  {
+                      "path":  "src\\components\\WeatherCard.tsx",
+                      "sha256":  "8893773F941A7CE0424B16B3D7B8DC45FAD9CA9036D7720547443525291FF8A3",
+                      "bytes":  1251
+                  },
+                  {
+                      "path":  "src\\components\\ForecastList.tsx",
+                      "sha256":  "71D5DDC671DF7C7248281AED1C30FBEB99004DC64F91C961BDF3274E13209067",
+                      "bytes":  687
+                  },
+                  {
+                      "path":  "src\\hooks\\useWeather.ts",
+                      "sha256":  "03DEC2BB5628302F3A31BB56EB1C4FDC6898FB1D1E0FCA440A5B7E248734EA77",
+                      "bytes":  337
+                  },
+                  {
+                      "path":  "src\\services\\weatherApi.ts",
+                      "sha256":  "93F5399143B3CC9BF256E441B774251F9E734840603C8D380563B86DF2248EAF",
+                      "bytes":  2346
+                  }
+              ],
+    "saved_utc":  "2026-11-11T21:15:46.4719873Z",
+    "scanned_count":  8
+}
